@@ -1,0 +1,12 @@
+C:\Users\santo\source\repos\FailFast\FailFast.Application\bin\Debug\net5.0\FailFast.Application.deps.json
+C:\Users\santo\source\repos\FailFast\FailFast.Application\bin\Debug\net5.0\FailFast.Application.dll
+C:\Users\santo\source\repos\FailFast\FailFast.Application\bin\Debug\net5.0\ref\FailFast.Application.dll
+C:\Users\santo\source\repos\FailFast\FailFast.Application\bin\Debug\net5.0\FailFast.Application.pdb
+C:\Users\santo\source\repos\FailFast\FailFast.Application\obj\Debug\net5.0\FailFast.Application.csprojAssemblyReference.cache
+C:\Users\santo\source\repos\FailFast\FailFast.Application\obj\Debug\net5.0\FailFast.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\source\repos\FailFast\FailFast.Application\obj\Debug\net5.0\FailFast.Application.AssemblyInfoInputs.cache
+C:\Users\santo\source\repos\FailFast\FailFast.Application\obj\Debug\net5.0\FailFast.Application.AssemblyInfo.cs
+C:\Users\santo\source\repos\FailFast\FailFast.Application\obj\Debug\net5.0\FailFast.Application.csproj.CoreCompileInputs.cache
+C:\Users\santo\source\repos\FailFast\FailFast.Application\obj\Debug\net5.0\FailFast.Application.dll
+C:\Users\santo\source\repos\FailFast\FailFast.Application\obj\Debug\net5.0\ref\FailFast.Application.dll
+C:\Users\santo\source\repos\FailFast\FailFast.Application\obj\Debug\net5.0\FailFast.Application.pdb

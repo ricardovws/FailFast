@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zREqZ1zNImKLza5MOXlsfGw9XVpTt3lh1Lrv6ASWe6OkabSzOogMCos1CjYabpCJ2YTxTNIDQw7pJ3TSxz/eEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santo\\source\\repos\\FailFast\\FailFast.Application\\FailFast.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santo\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
